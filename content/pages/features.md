@@ -7,10 +7,7 @@ sections:
       Join us Aug 11-14, 2022 at Caesars Forum + Bally's, Paris, Flamingo,
       Harrahs, and Linq in Las Vegas!
     align: center
-  - title: >-
-      Note that the schedule is still TBD (to be determined) until we've
-      received all CFP submissions. Below are the confirmed talks!
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     actions: []
     has_background: false
     background_color: white
