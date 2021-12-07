@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Schedule
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Join us Aug 11-14, 2022 at Caesars Forum + Bally's, Paris, Flamingo,
+      Harrahs, and Linq in Las Vegas!
     align: center
   - type: features_section
     features:
