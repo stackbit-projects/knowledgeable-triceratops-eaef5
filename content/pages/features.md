@@ -33,10 +33,9 @@ sections:
             url: /style-guide
             style: primary
       - title: Day 3 - On-Prem and Beyond!
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Day 3 is our favorite day. For things not so app-focused, let's dive
+          into the rest.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
