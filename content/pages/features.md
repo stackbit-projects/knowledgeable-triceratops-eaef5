@@ -42,7 +42,7 @@ sections:
 
           All vulnerabilities discussed include practical labs and a final exam
           comprising of a fully-fledged target web application to test your
-          skills. 
+          skills.
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
