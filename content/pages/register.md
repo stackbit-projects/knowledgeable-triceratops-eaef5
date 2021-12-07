@@ -12,12 +12,13 @@ sections:
       ERC721 tokens (NFTs known as Hacker Handles©) will have the privilege to
       experience SawCon 2021.
 
-       ![](/images/2021-12-06\_21-16-34.png)
+
+      ![](/images/2021-12-06\_21-16-34-62e9f743.png)
 
 
       With an extraordinary lineup of iconic keynote speeches from some of the
       best in the industry; some of the most competitive CTFs; and many
-      collaborative experiences. 
+      collaborative experiences.
   - type: team_section
     title: Our Team
     team:
