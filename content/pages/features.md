@@ -54,7 +54,7 @@ sections:
         content: |
           See the latest and greatest honks by some of the best in the industry.
         align: left
-        image: images/feature.svg
+        image: /images/goose.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
