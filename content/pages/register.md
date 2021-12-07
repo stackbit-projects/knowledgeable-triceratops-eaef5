@@ -2,7 +2,7 @@
 title: Register for 2022
 sections:
   - type: hero_section
-    title: Register for 2022
+    title: Register for SawCon 2022
     align: center
   - type: content_section
     title: Powered by the Ethereum Blockchain
