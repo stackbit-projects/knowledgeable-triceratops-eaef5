@@ -10,8 +10,9 @@ sections:
   - type: features_section
     features:
       - title: Day 1 - Web Vulns
-        content: |
-          Day 1 focuses 
+        content: >
+          Day 1 focuses all on the latest and greatest vulnerabilities,
+          techniques, and bypasses for all things appsec. 
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
