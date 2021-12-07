@@ -6,6 +6,8 @@ sections:
     align: center
   - type: hero_section
     content: Powered by the Blockchain
+    align: center
+    
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
