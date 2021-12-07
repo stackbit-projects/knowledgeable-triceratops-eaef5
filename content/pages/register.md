@@ -22,7 +22,7 @@ sections:
   - type: cta_section
     subtitle: Check our wallet address to see when NFTs get minted!
     actions:
-      - label: Contact Us
+      - label: ETH Wallet
         url: /contact
         style: secondary
     has_background: true
