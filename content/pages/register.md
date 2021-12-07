@@ -23,7 +23,8 @@ sections:
     subtitle: Check our wallet address to see when NFTs get minted!
     actions:
       - label: ETH Wallet
-        url: /contact
+        url: >-
+          https://etherscan.io/address/0x2eD0FF3f4029103f8a14071baA87EF3E81D1ECAb
         style: secondary
     has_background: true
     background_color: blue
