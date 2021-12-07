@@ -16,9 +16,9 @@ sections:
       ![](/images/2021-12-06\_21-16-34-62e9f743.png)
 
 
-      With an extraordinary lineup of iconic keynote speeches from some of the
-      best in the industry; some of the most competitive CTFs; and many
-      collaborative experiences.
+      You can expect an extraordinary lineup of iconic keynote speeches from
+      some of the best in the industry; some of the most competitive CTFs; and
+      many collaborative experiences. See the latest CVEs live at SawCon 2022!
   - type: cta_section
     subtitle: Check our wallet address to see when NFTs get minted!
     actions:
