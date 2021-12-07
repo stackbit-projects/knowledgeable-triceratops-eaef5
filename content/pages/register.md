@@ -20,7 +20,6 @@ sections:
       best in the industry; some of the most competitive CTFs; and many
       collaborative experiences.
   - type: cta_section
-    title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
