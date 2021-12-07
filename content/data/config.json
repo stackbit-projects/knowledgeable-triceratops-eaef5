@@ -17,7 +17,7 @@
             },
             {
                 "label": "Register",
-                "url": "/about",
+                "url": "/register",
                 "style": "link"
             },
             {
