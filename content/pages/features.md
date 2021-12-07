@@ -9,7 +9,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Day 1 - Web Vulns
+      - title: 'Day 1 - Apps, Apps, Apps!'
         content: >
           Day 1 focuses all on the latest and greatest vulnerabilities,
           techniques, and bypasses for all things appsec. 
