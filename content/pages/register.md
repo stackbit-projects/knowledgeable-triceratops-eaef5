@@ -20,7 +20,7 @@ sections:
       best in the industry; some of the most competitive CTFs; and many
       collaborative experiences.
   - type: cta_section
-    subtitle: 'Check our wallet address '
+    subtitle: Check our wallet address to see when NFTs get minted!
     actions:
       - label: Contact Us
         url: /contact
