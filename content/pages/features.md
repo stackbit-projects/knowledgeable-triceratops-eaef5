@@ -44,7 +44,7 @@ sections:
           comprising of a fully-fledged target web application to test your
           skills. 
         align: left
-        image: images/feature.svg
+        image: /images/iStock-517901788.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
