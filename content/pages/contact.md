@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact
+    title: Call for Papers!
     align: center
   - type: contact_section
 seo:
