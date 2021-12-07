@@ -5,7 +5,7 @@ sections:
     title: Register for 2022
     align: center
   - type: content_section
-    title: Powered by Blockchain Technology
+    title: Powered by the Ethereum Blockchain
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
       sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
