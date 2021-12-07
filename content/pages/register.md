@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Register for 2022
     align: center
-  - type: text_section
+  - type: content_section
     content: Powered by the Blockchain
     align: center
     color: white
