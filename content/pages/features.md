@@ -51,7 +51,7 @@ sections:
           - label: Learn More
             url: /register
             style: primary
-      - title: Day 2 - KubeTubing
+      - title: KubeTubing
         content: |
           See the latest and greatest honks by some of the best in the industry.
         align: left
