@@ -69,7 +69,7 @@ sections:
           Wheel of Jeopardy to The Price is Fortune to Squid Wants to Be a
           Millionaire, it's all skill in this game with a little luck to boot.
         align: left
-        image: images/feature.svg
+        image: /images/wheel.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
