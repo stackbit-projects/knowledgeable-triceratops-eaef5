@@ -22,10 +22,8 @@ sections:
             url: /register
             style: primary
       - title: Day 2 - KubeTubing
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          See the latest and greatest honks by some of the best in the industry.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
