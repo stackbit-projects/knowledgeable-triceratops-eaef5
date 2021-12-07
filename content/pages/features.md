@@ -7,6 +7,12 @@ sections:
       Join us Aug 11-14, 2022 at Caesars Forum + Bally's, Paris, Flamingo,
       Harrahs, and Linq in Las Vegas!
     align: center
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
   - type: features_section
     features:
       - title: 'Day 1 - Apps, Apps, Apps!'
