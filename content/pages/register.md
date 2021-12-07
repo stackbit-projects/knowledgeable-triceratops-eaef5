@@ -7,7 +7,7 @@ sections:
   - type: content_section
     title: Powered by the Ethereum Blockchain
     content: >-
-      All tickets are
+      The world's SECOND NFT-ticketed conference. 
   - type: team_section
     title: Our Team
     team:
