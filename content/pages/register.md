@@ -20,7 +20,7 @@ sections:
       best in the industry; some of the most competitive CTFs; and many
       collaborative experiences.
   - type: cta_section
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: 'Check our wallet address '
     actions:
       - label: Contact Us
         url: /contact
