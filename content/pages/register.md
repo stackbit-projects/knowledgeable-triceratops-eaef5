@@ -6,8 +6,18 @@ sections:
     align: center
   - type: content_section
     title: Powered by the Ethereum Blockchain
-    content: >-
-      The world's SECOND NFT-ticketed conference. SawCon 2022 is a multi-day infosec / cybersec superconference where only VeeFriends token holders will experience an extraordinary lineup of content including iconic keynote speeches; aggressive amount of innovative and educational talks, panels and Q&A sessions; and many collaborative experiences including competitions, gatherings, and team sessions. In addition, there will be a bevy of entertainment.
+    content: >
+      The world's SECOND NFT-ticketed conference. SawCon 2022 is a multi-day
+      infosec / cybersec superconference where only holders of one of the 1,567
+      ERC721 tokens (NFTs known as Hacker Handles©) will have the privilege to
+      experience SawCon 2021.
+
+       ![](/images/2021-12-06\_21-16-34.png)
+
+
+      With an extraordinary lineup of iconic keynote speeches from some of the
+      best in the industry; some of the most competitive CTFs; and many
+      collaborative experiences. 
   - type: team_section
     title: Our Team
     team:
