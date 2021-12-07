@@ -9,7 +9,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Day 1
+      - title: Day 1 - Web Vulns
         content: |
           Day 1 focuses 
         align: left
