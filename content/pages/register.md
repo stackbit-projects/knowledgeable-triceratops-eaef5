@@ -2,7 +2,7 @@
 title: Register for 2022
 sections:
   - type: hero_section
-    title: Who We Are
+    title: Register for 2022
     align: center
   - type: content_section
     content: >-
