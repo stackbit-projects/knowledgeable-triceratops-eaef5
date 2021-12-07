@@ -5,7 +5,7 @@ sections:
     title: Register for 2022
     align: center
   - type: content_section
-    content: Powered by the Blockchain
+    title: Powered by the Blockchain
     align: center
   - type: content_section
     content: >-
