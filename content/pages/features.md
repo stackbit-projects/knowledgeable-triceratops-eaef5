@@ -18,8 +18,31 @@ sections:
     features:
       - title: Giga Web App Hacking
         content: >
-          Day 1 focuses all on the latest and greatest vulnerabilities,
-          techniques, and bypasses for all things appsec. 
+          This is for the most advanced of the advanced web app hackers. Go
+          beyond the OWASP Top 10 vulnerabilities to the OWASP Top 20 vulns that
+          only the most elite of hackers are finding. We go over topics like:
+
+
+          *   Next-level reconnaissance and application mapping using both
+          manual techniques and CBrown's  tool Snoopy
+
+
+          *   Cross-Script Sniping
+
+
+          *   Both Acute and Obtuse Angular JSing
+
+
+          *   Advanced cryptographic attacks Block Toppling and Bit Flopping
+
+
+          *   More to come! Will update this list as the course is deciphered
+          from the codex.
+
+
+          All vulnerabilities discussed include practical labs and a final exam
+          comprising of a fully-fledged target web application to test your
+          skills. 
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
