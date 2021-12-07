@@ -62,7 +62,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
-      - title: Day 3 - On-Prem and Beyond!
+      - title: Social Engineering the Game Show!
         content: >
           Day 3 is our favorite day. For things not so app-focused, let's dive
           into the rest.
