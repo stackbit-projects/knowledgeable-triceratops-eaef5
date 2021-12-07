@@ -7,6 +7,7 @@ import { htmlToReact } from '../utils';
 export default class Footer extends React.Component {
     render() {
         const config = _.get(this.props, 'config');
+        const footer = _.get(config, 'footer');
         const hasNav = _.get(footer, 'has_nav');
         const navLinks = _.get(footer, 'nav_links');
         const hasSocial = _.get(footer, 'has_social');
