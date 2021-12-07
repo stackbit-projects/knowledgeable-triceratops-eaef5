@@ -64,8 +64,11 @@ sections:
             style: primary
       - title: Social Engineering the Game Show!
         content: >
-          Day 3 is our favorite day. For things not so app-focused, let's dive
-          into the rest.
+          Think you're an expert at Social Engineering? Let's put it to the
+          test. For this course, we literally target popular game shows and
+          attempt to gain access to sensitive data about each organization. From
+          Wheel of Jeopardy to The Price is Fortune to Squid Wants to Be a
+          Millionaire, it's all skill in this game with a little luck to boot.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
